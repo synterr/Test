@@ -1,6 +1,6 @@
 # My old OpenGL stuff:
 
-Labyrinth - Game
+Labyrinth - Game with labirynth solving algorithm hints
 
 AVSystem - My own GUI engine
 
